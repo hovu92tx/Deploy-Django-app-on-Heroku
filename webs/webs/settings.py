@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'dhs(9kf2(!t+rm(7fzay(y!9$e^ku)$cb!+e)n$-+y^j9j9agr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['weapps.herokuapp.com']
 
 
 # Application definition
