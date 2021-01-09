@@ -131,4 +131,4 @@ This is the instruction step by step of deploying a django app on heruro using p
 
     d.	Heroku open
 
-19.	DONE!
+19.	DONE! https://weapps.herokuapp.com/
